@@ -11,9 +11,9 @@
 
 ## 문제 리스트
 
-1. [Revising the Select Query I](https://github.com/Ahnseokbeom/HackerRank/blob/main/SELECT/Basic/Revising_the_Select_Query1.sql)
-2. [Revising the Select Query II](https://github.com/Ahnseokbeom/HackerRank/blob/main/SELECT/Basic/Revising_the_Select_Query2.sql)
-3. [Select All](https://github.com/Ahnseokbeom/HackerRank/blob/main/SELECT/Advanced/Type_of_Triangle.sql)
+1. Basic - [Revising the Select Query I](https://github.com/Ahnseokbeom/HackerRank/blob/main/SELECT/Basic/Revising_the_Select_Query1.sql)
+2. Basic - [Revising the Select Query II](https://github.com/Ahnseokbeom/HackerRank/blob/main/SELECT/Basic/Revising_the_Select_Query2.sql)
+3. Advanced - [Type of Triangle](https://github.com/Ahnseokbeom/HackerRank/blob/main/SELECT/Advanced/Type_of_Triangle.sql)
 4. ...
 
 ## 문의 및 기여
