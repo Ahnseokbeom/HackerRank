@@ -4,14 +4,16 @@
 
 ## 폴더 구조
 
-- `SELECT`: 기초 SELECT 문제 풀이
+- `SELECT`
+  - `Basic`: 기초 SELECT 문제 풀이
+  - `Advanced`: 고급 SELECT 문제 풀이
 - ...
 
 ## 문제 리스트
 
 1. [Revising the Select Query I](https://github.com/Ahnseokbeom/HackerRank/blob/main/SELECT/Basic/Revising_the_Select_Query1.sql)
 2. [Revising the Select Query II](https://github.com/Ahnseokbeom/HackerRank/blob/main/SELECT/Basic/Revising_the_Select_Query2.sql)
-3. [Select All](https://github.com/Ahnseokbeom/HackerRank/blob/main/SELECT/Basic/Select_All.sql)
+3. [Select All](https://github.com/Ahnseokbeom/HackerRank/blob/main/SELECT/Advanced/Type_of_Triangle.sql)
 4. ...
 
 ## 문의 및 기여
