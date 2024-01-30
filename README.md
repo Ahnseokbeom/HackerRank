@@ -16,7 +16,7 @@
 1. Basic - [Revising the Select Query I](https://github.com/Ahnseokbeom/HackerRank/blob/main/SELECT/Basic/Revising_the_Select_Query1.sql)
 2. Advanced - [Type of Triangle](https://github.com/Ahnseokbeom/HackerRank/blob/main/SELECT/Advanced/Type_of_Triangle.sql)
 3. Aggregation - [Top_Earners](https://github.com/Ahnseokbeom/HackerRank/blob/main/SELECT/Aggregation/Top_Earners.sql)
-4. Join - [Top_Report](https://github.com/Ahnseokbeom/HackerRank/blob/main/SELECT/Join/Top_Report.sql)
+4. Join - [The_Report](https://github.com/Ahnseokbeom/HackerRank/blob/main/SELECT/Join/The_Report.sql)
 5. ...
 
 ## 문의 및 기여
