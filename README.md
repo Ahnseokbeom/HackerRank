@@ -20,7 +20,7 @@
 3. **Aggregation**
 - [Top_Earners](https://github.com/Ahnseokbeom/HackerRank/blob/main/SELECT/Aggregation/Top_Earners.sql)
 4. **Join**
-   - [The_Report](https://github.com/Ahnseokbeom/HackerRank/blob/main/SELECT/Join/The_Report.sql)
+- [The_Report](https://github.com/Ahnseokbeom/HackerRank/blob/main/SELECT/Join/The_Report.sql)
 5. ...
 
 ## 문의 및 기여
