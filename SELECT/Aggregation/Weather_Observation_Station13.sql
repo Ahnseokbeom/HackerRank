@@ -1,7 +1,0 @@
-/*
-LAT_N이 38.7880 보다 크고 137.2345보다 작은 값들의 합을 구하시오
-출력값은 소수점 이하 4자리에서 반올림하시오
-*/
-
-SELECT ROUND(SUM(LAT_N),4) FROM STATION
-WHERE LAT_N BETWEEN 38.7880 AND 137.2345
