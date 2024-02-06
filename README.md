@@ -3,19 +3,22 @@
 이 레포지토리는 SQL 섹션에서 푼 문제들의 풀이를 모아둔 곳입니다. 각 문제에 대한 풀이는 해당 폴더 안에 정리되어 있습니다.
 
 ## 폴더 구조
-- `HackerRank`
-  - `SELECT`
-    - `Basic`: 기초 SELECT 문제 풀이
-    - `Advanced`: 고급 SELECT 문제 풀이
-    - `Aggregation`: 집합 SELECT 문제 풀이
-    - `Join`: 조인 SELECT 문제 풀이
-- `Solvesql`
-  - `Level1`: 난이도 1인 SQL 문제 풀이
-  - `Level2`: 난이도 2인 SQL 문제 풀이
-  - `Level3`: 난이도 3인 SQL 문제 풀이
-  - `Level4`: 난이도 4인 SQL 문제 풀이
-  - `Level5`: 난이도 5인 SQL 문제 풀이
-- ...
+- `SQLProblems`
+  - `HackerRank`
+    - `SELECT`
+      - `Basic`: 기초 SELECT 문제 풀이
+      - `Advanced`: 고급 SELECT 문제 풀이
+      - `Aggregation`: 집합 SELECT 문제 풀이
+      - `Join`: 조인 SELECT 문제 풀이
+   
+    <br>
+  - `Solvesql`
+      - `Level1`: 난이도 1인 SQL 문제 풀이
+      - `Level2`: 난이도 2인 SQL 문제 풀이
+      - `Level3`: 난이도 3인 SQL 문제 풀이
+      - `Level4`: 난이도 4인 SQL 문제 풀이
+      - `Level5`: 난이도 5인 SQL 문제 풀이
+  - ...
 
 ## 문제 리스트
 
