@@ -38,9 +38,9 @@
 2. **Level2**
 - [restaurant-vip](https://github.com/Ahnseokbeom/HackerRank/blob/main/SolveSql/Level2/restaurant-vip.sql)
 3. **Level3**
-- [...](...)
+- [mentor-mentee-list](https://github.com/Ahnseokbeom/SQLSolve/blob/main/SolveSql/Level3/mentor-mentee-list.sql)
 4. **Level4**
-- [...](...)
+- [day-of-furniture](https://github.com/Ahnseokbeom/SQLSolve/blob/main/SolveSql/Level4/day-of-furniture.sql)
 5. **Level5**
 - [...](...)
 
