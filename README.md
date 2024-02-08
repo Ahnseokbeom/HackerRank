@@ -24,7 +24,7 @@
 
 # HackerRank
 1. **Basic**
-- <a href= "https://www.hackerrank.com/challenges/revising-the-select-query/problem/" target="_blank")> [Revising the Select Query I] </a>
+- <a href="https://www.hackerrank.com/challenges/revising-the-select-query/problem/" target="_blank">Revising the Select Query I</a>
 - ([풀이코드](https://github.com/Ahnseokbeom/SQLSolve/blob/main/HackerRank/SELECT/Basic/Revising_the_Select_Query1_Solution.sql))
 
 2. **Advanced**
