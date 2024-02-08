@@ -24,37 +24,37 @@
 
 # HackerRank
 1. **Basic**
-- <a href="https://www.hackerrank.com/challenges/revising-the-select-query/problem/" target="_blank">Revising the Select Query I</a>
-- ([풀이코드](https://github.com/Ahnseokbeom/SQLSolve/blob/main/HackerRank/SELECT/Basic/Revising_the_Select_Query1_Solution.sql))
+<a href="https://www.hackerrank.com/challenges/revising-the-select-query/problem/" target="_blank"> Revising the Select Query I </a>
+- [풀이코드](https://github.com/Ahnseokbeom/SQLSolve/blob/main/HackerRank/SELECT/Basic/Revising_the_Select_Query1_Solution.sql)
 
 2. **Advanced**
-- [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem){:target="_blank"}
-- ([풀이코드](https://github.com/Ahnseokbeom/SQLSolve/blob/main/HackerRank/SELECT/Advanced/Type_of_Triangle_Solution.sql))
+[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem){:target="_blank"}
+- [풀이코드](https://github.com/Ahnseokbeom/SQLSolve/blob/main/HackerRank/SELECT/Advanced/Type_of_Triangle_Solution.sql)
 
 3. **Aggregation**
-- [Top_Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem){:target="_blank"}
-- ([풀이코드](https://github.com/Ahnseokbeom/SQLSolve/blob/main/HackerRank/SELECT/Aggregation/Top_Earners_Solution.sql))
+[Top_Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem){:target="_blank"}
+- [풀이코드](https://github.com/Ahnseokbeom/SQLSolve/blob/main/HackerRank/SELECT/Aggregation/Top_Earners_Solution.sql)
 
 4. **Join**
-- [The_Report](https://www.hackerrank.com/challenges/the-report/problem){:target="_blank"}
-- ([풀이코드](https://github.com/Ahnseokbeom/SQLSolve/blob/main/HackerRank/SELECT/Join/The_Report_Solution.sql))
+[The_Report](https://www.hackerrank.com/challenges/the-report/problem){:target="_blank"}
+- [풀이코드](https://github.com/Ahnseokbeom/SQLSolve/blob/main/HackerRank/SELECT/Join/The_Report_Solution.sql)
 
 # Solvesql
 1. **Level1**
-- [find-tables-with-high-bill](https://solvesql.com/problems/find-tables-with-high-bill){:target="_blank"}
-- ([풀이코드](https://github.com/Ahnseokbeom/SQLSolve/blob/main/SolveSql/Level1/find-tables-with-high-bill_Solution.sql))
+[find-tables-with-high-bill](https://solvesql.com/problems/find-tables-with-high-bill){:target="_blank"}
+- [풀이코드](https://github.com/Ahnseokbeom/SQLSolve/blob/main/SolveSql/Level1/find-tables-with-high-bill_Solution.sql)
 
 2. **Level2**
-- [restaurant-vip](https://solvesql.com/problems/restaurant-vip){:target="_blank"}
-- ([풀이코드](https://github.com/Ahnseokbeom/SQLSolve/blob/main/SolveSql/Level2/restaurant-vip_Solution.sql))
+[restaurant-vip](https://solvesql.com/problems/restaurant-vip){:target="_blank"}
+- [풀이코드](https://github.com/Ahnseokbeom/SQLSolve/blob/main/SolveSql/Level2/restaurant-vip_Solution.sql)
 
 3. **Level3**
-- [mentor-mentee-list](https://solvesql.com/problems/mentor-mentee-list){:target="_blank"}
-- ([풀이코드](https://github.com/Ahnseokbeom/SQLSolve/blob/main/SolveSql/Level3/mentor-mentee-list_Solution.sql))
+[mentor-mentee-list](https://solvesql.com/problems/mentor-mentee-list){:target="_blank"}
+- [풀이코드](https://github.com/Ahnseokbeom/SQLSolve/blob/main/SolveSql/Level3/mentor-mentee-list_Solution.sql)
 
 4. **Level4**
-- [day-of-furniture](https://solvesql.com/problems/day-of-furniture){:target="_blank"}
-- ([풀이코드](https://github.com/Ahnseokbeom/SQLSolve/blob/main/SolveSql/Level4/day-of-furniture_Solution.sql))
+[day-of-furniture](https://solvesql.com/problems/day-of-furniture){:target="_blank"}
+- [풀이코드](https://github.com/Ahnseokbeom/SQLSolve/blob/main/SolveSql/Level4/day-of-furniture_Solution.sql)
 
 5. **Level5**
 - [...](...) ([풀이코드](...))
