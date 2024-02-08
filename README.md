@@ -24,25 +24,40 @@
 
 # HackerRank
 1. **Basic**
-- [Revising the Select Query I](https://github.com/Ahnseokbeom/HackerRank/blob/main/SELECT/Basic/Revising_the_Select_Query1.sql)
+- [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)
+- ([풀이코드](https://github.com/Ahnseokbeom/HackerRank/blob/main/SELECT/Basic/Revising_the_Select_Query1_Solution.sql))
+
 2. **Advanced**
-- [Type of Triangle](https://github.com/Ahnseokbeom/HackerRank/blob/main/SELECT/Advanced/Type_of_Triangle.sql)
+- [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)
+- ([풀이코드](https://github.com/Ahnseokbeom/HackerRank/blob/main/SELECT/Advanced/Type_of_Triangle_Solution.sql))
+
 3. **Aggregation**
-- [Top_Earners](https://github.com/Ahnseokbeom/HackerRank/blob/main/SELECT/Aggregation/Top_Earners.sql)
+- [Top_Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem)
+- ([풀이코드](https://github.com/Ahnseokbeom/HackerRank/blob/main/SELECT/Aggregation/Top_Earners_Solution.sql))
+
 4. **Join**
-- [The_Report](https://github.com/Ahnseokbeom/HackerRank/blob/main/SELECT/Join/The_Report.sql)
+- [The_Report](https://www.hackerrank.com/challenges/the-report/problem)
+- ([풀이코드](https://github.com/Ahnseokbeom/HackerRank/blob/main/SELECT/Join/The_Report_Solution.sql))
 
 # Solvesql
 1. **Level1**
-- [find-tables-with-high-bill](https://github.com/Ahnseokbeom/HackerRank/blob/main/SolveSql/Level1/find-tables-with-high-bill.sql)
+- [find-tables-with-high-bill](https://solvesql.com/problems/find-tables-with-high-bill)
+- ([풀이코드](https://github.com/Ahnseokbeom/HackerRank/blob/main/SolveSql/Level1/find-tables-with-high-bill_Solution.sql))
+
 2. **Level2**
-- [restaurant-vip](https://github.com/Ahnseokbeom/HackerRank/blob/main/SolveSql/Level2/restaurant-vip.sql)
+- [restaurant-vip](https://solvesql.com/problems/restaurant-vip)
+- ([풀이코드](https://github.com/Ahnseokbeom/HackerRank/blob/main/SolveSql/Level2/restaurant-vip_Solution.sql))
+
 3. **Level3**
-- [mentor-mentee-list](https://github.com/Ahnseokbeom/SQLSolve/blob/main/SolveSql/Level3/mentor-mentee-list.sql)
+- [mentor-mentee-list](https://solvesql.com/problems/mentor-mentee-list)
+- ([풀이코드](https://github.com/Ahnseokbeom/SQLSolve/blob/main/SolveSql/Level3/mentor-mentee-list_Solution.sql))
+
 4. **Level4**
-- [day-of-furniture](https://github.com/Ahnseokbeom/SQLSolve/blob/main/SolveSql/Level4/day-of-furniture.sql)
+- [day-of-furniture](https://solvesql.com/problems/day-of-furniture)
+- ([풀이코드](https://github.com/Ahnseokbeom/SQLSolve/blob/main/SolveSql/Level4/day-of-furniture_Solution.sql))
+
 5. **Level5**
-- [...](...)
+- [...](...) ([풀이코드](...))
 
 ## 문의 및 기여
 
