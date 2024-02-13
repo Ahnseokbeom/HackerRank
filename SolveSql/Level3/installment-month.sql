@@ -11,7 +11,7 @@ max_value - 최대 결제 금액
 avg_value - 평균 결제 금액
 */
 
-SELECT payment_installments as '할부 개월수'
+SELECT payment_installments
      , count(distinct order_id) as order_count
      , min(payment_value) as min_value
      , max(payment_value) as max_value
